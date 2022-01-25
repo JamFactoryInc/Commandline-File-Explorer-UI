@@ -1,10 +1,7 @@
-Sample Module Repository
-========================
+# Commandline-File-Explorer-UI
+## Navigate your files from the safety of the command line
 
-This simple project is an example repo for Python projects.
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
+view, navigate, and open files without the hassle of typing in the command line
 
----------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
+Missing features like sorting, searching, creating, editing, and deleting files (it's barebones but it does its job)
